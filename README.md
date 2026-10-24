@@ -1,4 +1,4 @@
-# abvance
+# Abvance
 
 Outil web de gestion de tickets, sécurisé et en ligne, pensé pour faire travailler
 ensemble une équipe de développement et ses clients sur les mêmes projets.
@@ -9,7 +9,7 @@ discussion technique.
 ## Démarrage
 
 ```bash
-git clone https://github.com/Abend-core/abvance.git
+git clone https://github.com/abnd-corp/abvance.git
 cd abvance
 ```
 
