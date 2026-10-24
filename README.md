@@ -28,3 +28,7 @@ docs: documentation
 refactor: refonte sans changement de comportement
 chore: outillage, config, dépendances
 ```
+
+## Licence
+
+AGPL-3.0-or-later : voir [LICENSE](LICENSE).
